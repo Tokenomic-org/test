@@ -34,11 +34,3 @@ social_links:
     link: '#'
     icon: "fab fa-facebook-f"
 
-  - name: "linkedin"
-    link: '#'
-    icon: "fab fa-linkedin"
-
-  - name: "instagram"
-    link: '#'
-    icon: "fab fa-instagram"
-
