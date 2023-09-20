@@ -34,15 +34,11 @@ social_links:
     link: '#'
     icon: "fab fa-facebook-f"
 
-  - name: "dribbble"
+  - name: "linkedin"
     link: '#'
-    icon: "fab fa-dribbble"
+    icon: "fab fa-linkedin"
 
-  - name: "dribbble"
+  - name: "instagram"
     link: '#'
-    icon: "fab fa-dribbble"
-
-  - name: "behance"
-    link: '#'
-    icon: "fab fa-behance"
+    icon: "fab fa-instagram"
 
