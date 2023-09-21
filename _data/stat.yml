@@ -1,8 +1,9 @@
 ####################################
 ######  Statistics Section    ######
 ####################################
-title: 'We glow with Our Statistics'
-description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected.'
+title: 'Targeted Solutions'
+description: '- Autonomous Operations: Empower your decentralized networks with self-regulating, energy-efficient infrastructure. <br>
+- Resilience: Navigate the volatility of crypto markets with robust, agile, and eco-friendly systems.'
 image: 'img/title-icon.png'
 
 # main big image
@@ -11,22 +12,25 @@ start_image: 'img/stat/stat-img.png'
 # 4 section image
 statistics:
   - image: 'img/stat/s1.png'
-    title: 'Productivity'
+    title: 'For Decentralized Finance (DeFi)'
     link: '#'
-    description: 'Making changes in your life is great and it is the way we grow and develop as people. Change is a constant.'
+    description: '- Autonomous Operations: Empower your decentralized networks with self-regulating, energy-efficient infrastructure. <br>
+- Resilience: Navigate the volatility of crypto markets with robust, agile, and eco-friendly systems.'
 
   - image: 'img/stat/s2.png'
-    title: 'Sales Monitoring'
+    title: 'For Render Farms'
     link: '#'
-    description: 'Making changes in your life is great and it is the way we grow and develop as people. Change is a constant.'
+    description: '- Scalability: Achieve blazing rendering speeds with our efficient, scalable, and high-performance compute solutions. <br>
+- Initiative: Auto-scale resources depending on the demand, thereby optimizing both costs and energy consumption.'
 
   - image: 'img/stat/s2.png'
-    title: 'Payment Stats'
+    title: 'For Multimedia'
     link: '#'
     description: 'Making changes in your life is great and it is the way we grow and develop as people. Change is a constant.'
 
   - image: 'img/stat/s4.png'
-    title: 'Pending Clearnance'
+    title: 'For Gaming'
     link: '#'
-    description: 'Making changes in your life is great and it is the way we grow and develop as people. Change is a constant.'
+    description: '- Low Latency: Offer seamless multiplayer experiences on our low-latency, eco-friendly network solutions. <br>
+- Autonomous Systems: Minimize downtime and energy usage with self-healing, autonomous monitoring systems.'
     

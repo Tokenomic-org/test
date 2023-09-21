@@ -31,8 +31,8 @@ saas_fixed_image_btn_one_link: '#'
 saas_fixed_image_btn_one_text:  'Browse free demo'
 
 # sass_slider
-sass_slider_name: 'Comprehensive, Sustainable IT <br> Solutions Across Industries' 
-sass_slider_description: ' Whether you operate in the world of Decentralized Finance, Render Farms and Multimedia, or Gaming, we offer tailored, eco-friendly IT solutions that meet your specialized requirements without compromising on performance or sustainability.' 
+sass_slider_name: 'Sustainable IT <br> Solutions Across Industries' 
+sass_slider_description: ' Whether you operate in the world of Decentralized Finance, Render Farms, Multimedia, or Gaming, we offer tailored, eco-friendly IT solutions that meet your specialized requirements without compromising on performance or sustainability.' 
 sass_slider_image: 'img/mockup.png'
 sass_slider_btn_one_link: '#'
 sass_slider_btn_one_text:  'Browse free demo'
