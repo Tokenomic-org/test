@@ -2,7 +2,7 @@
 title: Motivation And Your Personal Vision An Force
 image: 'img/blog/p2.jpg'
 layout: post
-categories: [Art & Fantacy]
+categories: [D]
 hero: blog_details
 comments: true
 ---
