@@ -2,9 +2,9 @@ header:
   - name: 'home'
     title: 'Home'
     link: '/'  
-  - name: 'Features'
-    title: 'Features'
-    link: '/features/'
+  - name: 'Services'
+    title: 'Services'
+    link: '/services/'
 
   - name: 'about'
     title: 'about'

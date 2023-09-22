@@ -31,6 +31,10 @@ features_links:
 
 social_links:
   - name: "facebook"
-    link: '#'
+    link: 'https://www.facebook.com/AxalNetwork'
     icon: "fab fa-facebook-f"
+
+  - name: "LinkedIn"
+    link: 'https://www.linkedin.com/company/axalnetwork'
+    icon: "fa-linkedin"
 
