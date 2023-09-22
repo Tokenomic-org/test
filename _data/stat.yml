@@ -2,8 +2,7 @@
 ######  Statistics Section    ######
 ####################################
 title: 'Targeted Solutions'
-description: '- Autonomous Operations: Empower your decentralized networks with self-regulating, energy-efficient infrastructure. <br>
-- Resilience: Navigate the volatility of crypto markets with robust, agile, and eco-friendly systems.'
+description: 'In the ever-advancing domains of DeFi, Render Farms, Artificial Intelligence , and Gaming, having a resilient and scalable IT infrastructure is not merely beneficial—it’s crucial. At Axal, we specialize in providing tailor-made solutions meticulously engineered to align with your unique needs, ensuring seamless integration and optimal performance in diverse operational environments.'
 image: 'img/title-icon.png'
 
 # main big image
@@ -18,7 +17,7 @@ statistics:
 - Resilience: Navigate the volatility of crypto markets with robust, agile, and eco-friendly systems.'
 
   - image: 'img/stat/s2.png'
-    title: 'For Render Farms'
+    title: 'For Render Farms and Multimedia'
     link: '#'
     description: '- Scalability: Achieve blazing rendering speeds with our efficient, scalable, and high-performance compute solutions. <br>
 - Initiative: Auto-scale resources depending on the demand, thereby optimizing both costs and energy consumption.'
