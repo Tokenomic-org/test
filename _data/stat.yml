@@ -24,9 +24,10 @@ statistics:
 - Initiative: Auto-scale resources depending on the demand, thereby optimizing both costs and energy consumption.'
 
   - image: 'img/stat/s2.png'
-    title: 'For Multimedia'
+    title: 'For Artificial Intelligence'
     link: '#'
-    description: 'Making changes in your life is great and it is the way we grow and develop as people. Change is a constant.'
+    description: '- Innovation: Develop and integrate cutting-edge AI models that learn and adapt, fostering advancement and efficiency in your operations. <br>
+- Sustainability: Harness the power of AI while prioritizing ecological responsibility, ensuring that technological progress does not compromise environmental well-being.'
 
   - image: 'img/stat/s4.png'
     title: 'For Gaming'
