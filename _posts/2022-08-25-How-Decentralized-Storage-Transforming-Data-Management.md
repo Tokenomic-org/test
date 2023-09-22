@@ -2,7 +2,7 @@
 title: How Decentralized Storage is Transforming Data Management
 image: 'img/blog/Decentralized-Storage.jpg'
 layout: post
-categories: [D]
+categories: [DEFI]
 hero: blog_details
 comments: true
 ---
