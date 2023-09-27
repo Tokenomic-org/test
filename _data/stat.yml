@@ -1,8 +1,8 @@
 ####################################
 ######  Statistics Section    ######
 ####################################
-title: 'Targeted Solutions'
-description: 'In the ever-advancing domains of DeFi, Render Farms, Artificial Intelligence , and Gaming, having a resilient and scalable IT infrastructure is not merely beneficial—it’s crucial. At Axal, we specialize in providing tailor-made solutions meticulously engineered to align with your unique needs, ensuring seamless integration and optimal performance in diverse operational environments.'
+title: 'Our Core Values'
+description: 'Our commitment to shaping a sustainable and equitable world is embodied in our core values:'
 image: 'img/title-icon.png'
 
 # main big image
@@ -11,26 +11,22 @@ start_image: 'img/stat/stat-img.png'
 # 4 section image
 statistics:
   - image: 'img/stat/s1.png'
-    title: 'For Decentralized Finance (DeFi)'
+    title: 'Holistic Sustainability'
     link: '#'
-    description: '- Autonomous Operations: Empower your decentralized networks with self-regulating, energy-efficient infrastructure. <br>
-- Resilience: Navigate the volatility of crypto markets with robust, agile, and eco-friendly systems.'
+    description: 'We adopt a comprehensive approach to sustainability, emphasizing innovation and responsibility in every action, decision, and investment we make. We actively seek to reduce our carbon footprint through sustainable IT infrastructure, utilizing renewable energy, eco-efficient solutions, and responsible consumption and production.'
 
   - image: 'img/stat/s2.png'
-    title: 'For Render Farms and Multimedia'
+    title: 'Empowered and Ethical Decision-Making'
     link: '#'
-    description: '- Scalability: Achieve blazing rendering speeds with our efficient, scalable, and high-performance compute solutions. <br>
-- Initiative: Auto-scale resources depending on the demand, thereby optimizing both costs and energy consumption.'
+    description: 'Every member of the Axal team is empowered to make conscientious decisions that align with our commitment to environmental stewardship and ethical conduct. We strive to make choices that are in harmony with our ethical and environmental ethos, promoting a culture of integrity and respect.'
 
   - image: 'img/stat/s2.png'
-    title: 'For Artificial Intelligence'
+    title: 'Community Collaboration and Learning'
     link: '#'
-    description: '- Innovation: Develop and integrate cutting-edge AI models that learn and adapt, fostering advancement and efficiency in your operations. <br>
-- Sustainability: Harness the power of AI while prioritizing ecological responsibility, ensuring that technological progress does not compromise environmental well-being.'
+    description: 'We value community and collaborative learning, working cohesively with various stakeholders to share knowledge and drive positive change. We invest in continuous learning to stay abreast of evolving sustainable technologies and practices, ensuring our contribution to global sustainability dialogues is informed and impactful.'
 
   - image: 'img/stat/s4.png'
-    title: 'For Gaming'
+    title: 'Environmental Advocacy and Stewardship'
     link: '#'
-    description: '- Low Latency: Offer seamless multiplayer experiences on our low-latency, eco-friendly network solutions. <br>
-- Autonomous Systems: Minimize downtime and energy usage with self-healing, autonomous monitoring systems.'
+    description: 'Our dedication to environmental conservation and climate resilience is unwavering. We champion practices that protect biodiversity and advocate for holistic approaches to environmental preservation, striving to be responsible stewards of the planet and proponents of a sustainable future.'
     
