@@ -23,7 +23,7 @@ sections:
   image: http://127.0.0.1:4000/img/feature/f2.png
   link: '#'
 
-- title: 'Solar & Hydro'
+- title: 'Solar & Hydro Energy'
   description: 'Solar and hydro energy unite to sustainably power IT and agricultural systems in the greenhouse. Solar panels provide shade and energy for crops, while hydro energy sustains technology and irrigation, forming a unified, eco-efficient cycle promoting concurrent technological and agricultural development.'
   image: http://127.0.0.1:4000/img/feature/f2.png
   link: '#'
