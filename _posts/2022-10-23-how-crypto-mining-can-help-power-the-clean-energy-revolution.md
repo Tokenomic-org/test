@@ -1,6 +1,6 @@
 ---
 title: How Crypto Mining Can Help Power the Clean Energy Revolution
-image: 'img/blog/p1.jpg'
+image: 'img/blog/crypto-mining-sustainable-energy.png'
 layout: post
 categories: [Blockchain, Energy]
 hero: blog_details
