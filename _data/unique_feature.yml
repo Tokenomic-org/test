@@ -14,22 +14,22 @@ main_image_slider:
 
 sections:
 - title: 'Greenhouse'
-  description: 'Greenhouses cleverly support solar panels, forming a dual-purpose system that harnesses solar energy for IT infrastructure while shading and warming underlying crops. This integration cultivates a self-sustaining, eco-friendly energy system, marrying technological needs with sustainable agriculture in a symbiotic, autonomous relationship.'
+  description: 'Greenhouses cleverly support solar panels, forming a dual-purpose system that harnesses solar energy for IT infrastructure while shading and warming underlying crops.'
   image: http://127.0.0.1:4000/img/feature/f1.png
   link: '#'
 
 - title: 'Server Racks'
-  description: 'Server racks, meticulously stacked and enclosed to protect against humidity, leverage dual-purpose climate control: cool air is channeled from below for optimal IT operations, while the resultant hot air is expelled upward, warming the greenhouse and nurturing crops.'
+  description: 'Server racks, shielded to thwart humidity, utilize cool air from below for IT operations, while ejecting resultant hot air upwards to warm greenhouses and foster crops.'
   image: http://127.0.0.1:4000/img/feature/f2.png
   link: '#'
 
 - title: 'Solar & Hydro'
-  description: 'Solar and hydro energy unite to sustainably power IT and agricultural systems in the greenhouse. Solar panels double as crop shade and energy sources, while hydro energy supports technological and irrigation needs, creating a cohesive, eco-efficient cycle that promotes simultaneous technological and agricultural growth.'
+  description: 'Solar and hydro energy unite to sustainably power IT and agricultural systems in the greenhouse. Solar panels provide shade and energy for crops, while hydro energy sustains technology and irrigation, forming a unified, eco-efficient cycle promoting concurrent technological and agricultural development.'
   image: http://127.0.0.1:4000/img/feature/f2.png
   link: '#'
 
 - title: 'Vertical Crops'
-  description: 'Leveraging vertical agriculture maximizes space and supplies fresh produce to nearby residents. Utilizing hot air from IT infrastructure ensures continual crop growth in winter and a practical means for drying produce in summer, melding technological and agricultural proficiency seamlessly.'
+  description: 'Vertical agriculture optimizes space and provides local fresh produce, while IT infrastructure's hot air ensures year-round crop growth and summer produce drying, seamlessly blending technology and agriculture.'
   image: http://127.0.0.1:4000/img/feature/f2.png
   link: '#'
 
