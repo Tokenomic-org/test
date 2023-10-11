@@ -9,7 +9,7 @@ sass_btn_two_link: '#'
 sass_btn_two_text: ' View Pricing '
 
 # saas_video [ video type mp4 ]
-saas_video_name: 'Render Farms and Multimedia: <br> Scale without Compromise' 
+saas_video_name: 'Media: <br> Scale without Compromise' 
 saas_video_text: 'The first is a non technical method which requires the use of adware removal software.  Download free adware and spyware removal software and use advanced tools to help prevent  getting infected.'
 saas_video_image: 'img/mockup.png'
 saas_video_video: 'vdo/sass-bv.mp4'
@@ -89,10 +89,5 @@ blog_slider:
     author: 'Sir Alex James'
     title: 'The Idea Of God Is <br /> Not Henceforth Relevant'
     category: 'Technical'
-
-  - image: 'img/hero/hero-blog.jpg'
-    author: 'Sir Alex James'
-    title: 'The Idea Of God Is <br /> Not Henceforth Relevant'
-    category: 'Art &amp; Fantacy'
 
 
