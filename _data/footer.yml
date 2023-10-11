@@ -7,34 +7,49 @@
 title: 'About Us'
 description: 'Located in Geneva, Switzerland, we are innovators in decentralized finance, media, and AI, dedicated to delivering environmentally friendly IT solutions to businesses. Our mission is centered on blending technology with sustainability, ensuring our advanced solutions meet specialized needs while contributing to a greener future.'
 
-resources_link_heading: 'Resources'
+resources_link_heading: 'Company'
 resources_links: 
-  - text: 'Guides'
-    link: '#'
-  - text: 'Research'
-    link: '#'
-  - text: 'Experts'
-    link: '#'
-  - text: 'Agencies'
-    link: '#'
+  - text: 'About Us'
+    link: '/about/'
+  - text: 'Team'
+    link: '/team/'
+  - text: 'Careers'
+    link: '/careers'
+  - text: 'Press'
+    link: '/press/'
+  - text: 'Investor Relations'
+    link: '/investor/'
+  - text: 'Partnerships'
+    link: '/partnerships/'
+  - text: 'Contact Us'
+    link: '/contact/'
+  - text: 'Blog'
+    link: '/blog/'
 
-features_link_heading: 'Features'
+features_link_heading: 'Legal & Support'
 features_links:
-  - text: 'Guides'
-    link: '#'
-  - text: 'Research'
-    link: '#'
-  - text: 'Experts'
-    link: '#'
-  - text: 'Agencies'
-    link: '#'
+  - text: 'Privacy Policy'
+    link: '/privacy/'
+  - text: 'Terms of Service'
+    link: '/tos/'
+  - text: 'FAQs'
+    link: '/faq/'
+  - text: 'Support'
+    link: '/support/'
+  - text: 'Sitemap'
+    link: '/sitemap/'
+  - text: 'Resource Center'
+    link: '/resource/'
 
 social_links:
   - name: "facebook"
     link: 'https://www.facebook.com/AxalNetwork'
     icon: "fab fa-facebook-f"
 
+  - name: "Instagram"
+    link: 'https://www.linkedin.com/company/axalnetwork'
+    icon: "fa fa-instagram"
+
   - name: "LinkedIn"
     link: 'https://www.linkedin.com/company/axalnetwork'
-    icon: "fa-linkedin"
-
+    icon: "fa fa-linkedin"
