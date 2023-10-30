@@ -4,9 +4,9 @@
 ####################################
 name                : 'Axal'
 title               : 'Axal - Sustainable IT Solutions Across Industries'
-email               : demo@example.com
-address             : '2216 Park Avenue, California 95630 '
-phone               : 0185612012035
+email               : info@axal.io
+address             : 'Geneva, Switzerland'
+phone               : 
 tagline             : 'description for your new site here' 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
