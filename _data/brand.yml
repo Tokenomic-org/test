@@ -1,8 +1,8 @@
 
 - image: 'img/brands/b1.png'
-  link: '#'
+  link: 'https://freestudios.ch'
 - image: 'img/brands/b2.png'
-  link: '#'
+  link: 'https://generatedart.com'
 - image: 'img/brands/b3.png'
   link: '#'
 - image: 'img/brands/b4.png'
