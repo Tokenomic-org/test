@@ -2,13 +2,14 @@ header:
   - name: 'home'
     title: 'Home'
     link: '/'  
-  - name: 'Services'
-    title: 'Services'
-    link: '/services/'
 
   - name: 'about'
     title: 'about'
     link: '/about/'
+
+  - name: 'Services'
+    title: 'Services'
+    link: '/services/'
 
   - name: 'blog'
     title: 'blog'
