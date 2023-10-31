@@ -1,19 +1,5 @@
-story_title: 'Our Story'
-story_descript: 'At Axal, our mission is to seamlessly integrate cutting-edge information technology with sustainable practices, forging a path where environmental responsibility and digital advancement go hand in hand. We are dedicated to delivering innovative IT solutions that empower businesses across industries, from decentralized finance to artificial intelligence, without sacrificing ecological integrity.
-
-We aim to achieve this by:
-
-1. Developing Sustainable Infrastructures: Constructing IT ecosystems that leverage renewable energy, waste reduction, and eco-efficient designs to minimize our carbon footprint.
-
-2. Advancing Green Technologies: Investing in research and development to stay at the forefront of sustainable technology, continuously enhancing our services with the latest eco-conscious innovations.
-
-3. Promoting Sustainable Practices: Encouraging businesses to adopt sustainable models by providing them with the tools and knowledge to transition seamlessly into greener operations.
-
-4. Collaborating for a Greener Future: Fostering partnerships with like-minded organizations to amplify our impact on environmental conservation and sustainable development.
-
-5. Educating and Advocating: Leading by example to inspire and educate our clients, partners, and the broader community on the importance of sustainability in the digital realm.
-
-Our mission reflects our commitment to not only meet the digital demands of today's fast-paced world but to do so in a way that ensures a livable, thriving planet for future generations. Axal is where technology meets ecology, creating a symbiosis that benefits not just our clients, but the entire global ecosystem.'
+about_title: 'Our Story'
+about_descript: ''
 browse_free_btn_text: 'Discover our services'
 browse_free_btn_link: '/services/'
 image: 'img/about-img.png'
