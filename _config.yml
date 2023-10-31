@@ -87,7 +87,7 @@ mailchimp:
 ######        Copyright       ######
 ####################################
 copyright_text: Copyright © 2023. All rights reserved.
-company_url: '#'
+company_url: 'https://axal.io'
 
 
 # SEO Related
@@ -124,8 +124,8 @@ timezone: '' # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 map: 
   key: 'AIzaSyA7nx22ZmINYk9TGiXDEXGVxghC43Ox6qA'
-  let: 40.6700
-  lng: -73.9400
+  let: 46.2028952
+  lng: 6.1586025
   zoom: 11
   title: '121 King William Street, Snazzy'
 
