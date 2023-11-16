@@ -5,13 +5,13 @@
 ######  feature Section   ######
 ####################################
 - image: 'img/feature/i1.png'
-  title: 'Decentralized Finance'
-  description: 'Navigate the complexities of crypto markets with our robust, agile, and energy-efficient solutions designed to empower your decentralized networks.'
+  title: 'Self-Sufficiency'
+  description: 'Integrating IT, agriculture, and energy within the community reduces dependence on external sources, which is particularly vital during natural disasters. This self-sufficiency not only ensures continuous access to essential services but also fortifies community resilience against disruptions.'
 
 - image: 'img/feature/i3.png'
-  title: 'Media'
-  description: 'Achieve blazing rendering speeds and seamless media management with our scalable and high-performance, yet energy-efficient solutions.'
+  title: 'Localizing'
+  description: 'Adopting localized information systems, agriculture, and energy solutions drastically reduces transportation costs, minimizes CO2 emissions, and curtails losses during transit. This strategy enhances operational efficiency and promotes environmental sustainability.'
 
 - image: 'img/feature/i4.png'
-  title: 'Artificial Intelligence'
-  description: 'Harness the power of seamless, low-latency machine learning models and advancements in AI, while also advancing your sustainability goals through our energy-efficient solutions.'
+  title: 'Sovereignty'
+  description: 'Full control over key resources like information, food, and energy supply empowers communities to manage these assets according to their specific needs and goals. This sovereignty enables more effective decision-making and sustainable preservation of resources.'
