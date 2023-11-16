@@ -25,7 +25,7 @@ points:
     icon: 'img/points/climate-control.png'
     description: 'We work with HVAC specialists to install climate control systems that smartly distribute air, providing necessary cooling for IT operations and redirecting waste heat to assist plant growth.'
   - title: 'Energy <br> Efficiency <br> Auditing'
-    icon: 'img/points/i2.png'
+    icon: 'img/points/energy-effiency.png'
     description: ' We engage energy efficiency auditors to assess and improve the energy consumption of both the IT and agricultural components, aiming for minimal carbon footprint and maximum energy savings. '
   - title: 'Sustainable <br> Architecture'
     icon: 'img/points/sustainable-architecture.png'
@@ -37,7 +37,7 @@ points:
     icon: 'img/points/Environmental-Compliance.png'
     description: 'We ensure compliance with environmental regulations and standards, promoting sustainable practices throughout all systems.'
   - title: 'Waste <br> Heat Utilization'
-    icon: 'img/points/i2.png'
+    icon: 'img/points/waste-heat.png'
     description: ' We implement methods for waste heat recovery from IT operations, enhancing agricultural yields by redirecting this energy into the greenhouse. '
   - title: 'Renewable Energy System <br> Installation and Maintenance'
     icon: 'img/points/Renewable-Energy-System.png'
@@ -67,7 +67,7 @@ points:
     icon: 'img/points/i3.png'
     description: ' We use strategic marketing and public relations to showcase our innovative approach, illustrating the unique integration of IT and sustainable agriculture to potential clients and the public. '
   - title: 'Legal and Regulatory Advisory'
-    icon: 'img/points/i4.png'
+    icon: 'img/points/legal.png'
     description: ' We navigate the complex legal and regulatory framework, ensuring compliance across the integrated system and mitigating legal and regulatory risks. '
 
     
