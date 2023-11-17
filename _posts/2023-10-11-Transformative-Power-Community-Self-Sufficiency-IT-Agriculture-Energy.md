@@ -1,6 +1,6 @@
 ---
 title: The Transformative Power of Community Self-Sufficiency in IT, Agriculture, and Energy
-image: 'img/blog/crypto-mining-sustainable-energy.png'
+image: 'img/blog/transformative.png'
 layout: post
 categories: [Blockchain, Energy]
 hero: blog_details
