@@ -7,6 +7,9 @@ hero: blog_details
 comments: true
 ---
 
+![eco-village-pano](https://github.com/AxalNetwork/website/assets/55703540/0c45db5e-7bb6-4247-aa10-cfa57040734d)
+
+
 In an era where globalization has been the mainstay, a paradigm shift towards localization - particularly in IT infrastructure, agriculture, and renewable energy - offers a promising path to sustainable development. This approach not only addresses environmental concerns but also strengthens local economies and communities. Here, we delve into the myriad advantages of localizing these critical sectors.
 
 #### Reducing Environmental Impact
