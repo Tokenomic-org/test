@@ -1,5 +1,5 @@
 ---
-title: Embracing Localization: The Multifaceted Benefits of Localizing IT, Agriculture, and Renewable Energy
+title: 'Embracing Localization: The Multifaceted Benefits of Localizing IT, Agriculture, and Renewable Energy'
 image: 'img/blog/eco-village-axal.png'
 layout: post
 categories: [Infrastructure]
