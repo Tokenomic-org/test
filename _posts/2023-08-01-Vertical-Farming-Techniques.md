@@ -9,8 +9,6 @@ comments: true
 
 ![vertical-farming-greenhouse](https://github.com/AxalNetwork/website/assets/55703540/cee3e9c7-c449-45ad-aebd-28698f6f521b)
 
-# Harnessing the Future: Vertical Farming Techniques in Solar-Powered Greenhouses with IT-Infrastructure Heat
-
 ## Introduction
 
 In the quest for sustainable agriculture, combining vertical farming techniques with solar-powered greenhouses and utilizing waste heat from IT infrastructure represents an innovative leap. This model not only optimizes land use but also leverages renewable energy and recycling principles, embodying a synergy between technology and agriculture.
