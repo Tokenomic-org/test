@@ -7,8 +7,7 @@ hero: blog_details
 comments: true
 ---
 
-![Uploading solar-powered-battery.png…]()
-
+![solar-powered-battery](https://github.com/AxalNetwork/website/assets/55703540/42bb9d62-23a7-49d2-94cc-f900282d8976)
 
 ## Introduction
 
