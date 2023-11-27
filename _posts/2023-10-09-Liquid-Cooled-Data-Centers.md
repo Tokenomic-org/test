@@ -14,7 +14,7 @@ comments: true
 In the quest for sustainability, eco-villages often seek innovative solutions to minimize environmental impact while maximizing efficiency. One such solution is the use of liquid-cooled data centers. This technology not only ensures efficient cooling of computer systems but also provides a unique opportunity to repurpose the heat generated for various community needs.
 
 ## The Technology Behind Liquid Cooling
-Liquid cooling in data centers involves the use of a special liquid, often a type of mineral oil or engineered fluid, to absorb heat from computer components. Unlike traditional air cooling, liquid cooling is more efficient in transferring heat and can significantly reduce the energy consumption of cooling systems】.
+Liquid cooling in data centers involves the use of a special liquid, often a type of mineral oil or engineered fluid, to absorb heat from computer components. Unlike traditional air cooling, liquid cooling is more efficient in transferring heat and can significantly reduce the energy consumption of cooling systems.
 
 ### Immersion Cooling System
 A key method is immersion cooling, where computer components are directly immersed in non-conductive coolant. The coolant absorbs the heat and then dissipates it. This method is particularly effective in reducing the thermal load and energy consumption of data centers.
