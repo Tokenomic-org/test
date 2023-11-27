@@ -1,5 +1,5 @@
 ---
-title: How Decentralized Storage is Transforming Data Management
+title: Liquid Cooled Data Centers: A Sustainable Solution for Eco-Villages
 image: 'img/blog/liquid-cooling-datacenter.png'
 layout: post
 categories: [Energy]
