@@ -1,5 +1,5 @@
 ---
-title: Decentralized Technological Governance in Eco Villages: A Blockchain Approach
+title: Decentralized Technological Governance in Eco Villages
 image: 'img/blog/blockchain-eco-village-governance-2.png'
 layout: post
 categories: [Governance]
