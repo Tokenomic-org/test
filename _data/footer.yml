@@ -53,3 +53,7 @@ social_links:
   - name: "LinkedIn"
     link: 'https://www.linkedin.com/company/axalnetwork'
     icon: "fab fa-linkedin-in"
+
+  - name: "Twitter"
+    link: 'https://twitter.com/AxalNetwork'
+    icon: "fab fa-twitter-in"
