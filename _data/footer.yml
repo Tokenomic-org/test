@@ -21,10 +21,10 @@ resources_links:
     link: '/investor/'
   - text: 'Partnerships'
     link: '/partnerships/'
-  - text: 'Contact Us'
-    link: '/contact/'
   - text: 'Blog'
     link: '/blog/'
+  - text: 'Contact Us'
+    link: '/contact/'
 
 features_link_heading: 'Legal & Support'
 features_links:
