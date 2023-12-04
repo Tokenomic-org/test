@@ -7,7 +7,11 @@ header:
     title: 'about'
     link: '/about/'
 
-  - name: 'Services'
+  - name: 'tokenomics'
+    title: 'tokenomics'
+    link: '/tokenomics/'
+
+  - name: 'services'
     title: 'Services'
     link: '/services/'
 
