@@ -13,8 +13,6 @@ resources_links:
     link: '/about/'
   - text: 'Team'
     link: '/team/'
- -  text: 'Blog'
-    link: 'https://axal.io/blog/'
   - text: 'Careers'
     link: '/careers'
   - text: 'Press'
@@ -25,6 +23,23 @@ resources_links:
     link: '/partnerships/'
   - text: 'Contact Us'
     link: '/contact/'
+  - text: 'Blog'
+    link: '/blog/'
+
+features_link_heading: 'Legal & Support'
+features_links:
+  - text: 'Privacy Policy'
+    link: '/privacy/'
+  - text: 'Terms of Service'
+    link: '/tos/'
+  - text: 'FAQs'
+    link: '/faq/'
+  - text: 'Support'
+    link: '/support/'
+  - text: 'Sitemap'
+    link: '/sitemap/'
+  - text: 'Resource Center'
+    link: '/resource/'
 
 social_links:
   - name: "facebook"
