@@ -7,7 +7,7 @@ hero: blog_details
 comments: true
 ---
 
-![p-1-90977098-wind-turbine](https://github.com/AxalNetwork/website/assets/55703540/2b4ebc30-97ce-4e9b-92d1-ba9e1fdc0c32)
+![p-1-90977098-wind-turbine](https://github.com/AxalNetwork/website/assets/55703540/3fde05b7-0528-479a-9cbc-a1ab2cd3ab47)
 
 
 AirLoom Energy, a pioneering company in the wind energy sector, is making waves with its innovative technology that promises to dramatically lower the cost of harnessing wind power. This development holds immense potential for Axal ecosystem and eco villages, enabling them to produce sustainable and renewable energy sources more efficiently and cost-effectively.
