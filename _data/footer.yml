@@ -48,8 +48,8 @@ social_links:
 
   - name: "Instagram"
     link: 'https://www.instagram.com/axalnetwork'
-    icon: "fa fa-instagram"
+    icon: "fab fa-instagram"
 
   - name: "LinkedIn"
     link: 'https://www.linkedin.com/company/axalnetwork'
-    icon: "fa fa-linkedin"
+    icon: "fab fa-linkedin-in"
