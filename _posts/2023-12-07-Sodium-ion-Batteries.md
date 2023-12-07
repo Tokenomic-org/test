@@ -1,5 +1,5 @@
 ---
-title: Sodium-ion Batteries: A Sustainable Alternative
+title: Sodium-ion Batteries A Sustainable Alternative
 image: 'img/blog/sodium-io-battery.jpg'
 layout: post
 categories: [Energy]
