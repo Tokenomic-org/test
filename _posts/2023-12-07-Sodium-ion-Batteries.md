@@ -13,10 +13,10 @@ comments: true
 Sodium-ion batteries are emerging as a promising alternative to lithium-ion batteries, especially for applications in eco-villages and sustainable communities. Their advantages are rooted in economic and ethical considerations, as well as their potential for renewable energy storage.
 <br/>
 ### Economic and Abundance Advantages
-Sodium, unlike lithium, is more abundant and affordable. This abundance makes sodium-ion batteries a cost-effective solution, especially important for eco-villages that often operate with limited budgets. The reduced cost does not compromise the efficiency or storage capabilities of these batteries, making them a viable option for renewable energy systems like solar and wind power storage【3†ifp.hal.science】.
+Sodium, unlike lithium, is more abundant and affordable. This abundance makes sodium-ion batteries a cost-effective solution, especially important for eco-villages that often operate with limited budgets. The reduced cost does not compromise the efficiency or storage capabilities of these batteries, making them a viable option for renewable energy systems like solar and wind power storage【3】.
 <br/>
 ### Ethical Considerations
-A significant ethical advantage of sodium-ion batteries is their cobalt-free nature. Cobalt mining, predominantly in the Democratic Republic of the Congo, has been associated with child labor, modern slavery, and environmental degradation. By avoiding cobalt, sodium-ion batteries circumvent these humanitarian and environmental issues, aligning with the eco-friendly and socially responsible ethos of eco-villages【2†reddit.com】【6†iisd.org】.
+A significant ethical advantage of sodium-ion batteries is their cobalt-free nature. Cobalt mining, predominantly in the Democratic Republic of the Congo, has been associated with child labor, modern slavery, and environmental degradation. By avoiding cobalt, sodium-ion batteries circumvent these humanitarian and environmental issues, aligning with the eco-friendly and socially responsible ethos of eco-villages【2】【6】.
 <br/>
 ### Technological Developments
 Advancements in sodium-ion battery technology have been accelerating, addressing earlier concerns about their performance compared to lithium-ion batteries. These improvements include better energy density, longer lifespans, and faster charging times. These technological strides make them increasingly suitable for the high-demand energy storage needs of eco-villages.
