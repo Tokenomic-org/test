@@ -31,8 +31,8 @@ saas_fixed_image_btn_one_link: '#'
 saas_fixed_image_btn_one_text:  'Browse free demo'
 
 # sass_slider
-sass_slider_name: 'Sustainable IT <br> Solutions Across Industries' 
-sass_slider_description: 'We offer customized IT solutions across various industries, focusing on high performance and environmental responsibility. Our approach includes a smart, sustainable ecosystem integrating agriculture, energy, and local solutions.' 
+sass_slider_name: 'Sustainable <br> Solutions Across Industries' 
+sass_slider_description: 'We offer customized solutions across various industries, focusing on high performance and environmental responsibility. Our approach includes a smart, sustainable ecosystem integrating agriculture, energy, and local solutions.' 
 sass_slider_image: 'img/mockup.png'
 sass_slider_btn_one_link: 'https://axal.io/about/'
 sass_slider_btn_one_text:  'About Us'
